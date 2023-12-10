@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ScreamColecoes.iml" filepath="$PROJECT_DIR$/ScreamColecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScreenAPI.iml" filepath="$PROJECT_DIR$/ScreenAPI.iml" />
     </modules>
   </component>
 </project>
